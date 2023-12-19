@@ -66,3 +66,20 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/*desde aca agrego yo*/
+
+
+div input{
+  margin-left: 5px;
+  
+}
+
+#carga{
+  text-align: start;
+}
+
+#tabla,td,th{
+  border: white 1px solid;
+  border-collapse:collapse;
+}
